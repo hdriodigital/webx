@@ -1,0 +1,11 @@
+informação de cadastro de  cliente
+ 
+ 
+ shortcodes 
+ [cliente_cadastro_form]
+ [pesquisar_clientes]
+ [excluir_clientes]
+ [relatorio_servicos]
+ [agendar_servico]
+ 
+ Desconto a  ser aplicado para cliente pelo   estabelecimento
